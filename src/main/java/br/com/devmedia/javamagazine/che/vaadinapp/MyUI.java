@@ -33,8 +33,7 @@ public class MyUI extends UI {
 
         Button button = new Button("Click Me");
         button.addClickListener( e -> {
-            layout.addComponent(new Label("Thanks " + name.getValue() 
-                    + ", it works!"));
+            layout.addComponent(new Label("Conteúdo do campo de texto: " + name.getValue()));
         });
         
         layout.addComponents(name, button);
