@@ -5,7 +5,7 @@ Template for a simple Vaadin application that only requires a Servlet 3.0 contai
 
 Contribute to it
 ==============
-[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=qeb4nxkuiorau99b)
+[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=bur9bm9rt44gty1i)
 
 Workflow
 ========
