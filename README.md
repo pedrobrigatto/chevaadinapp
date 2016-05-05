@@ -3,6 +3,9 @@ vaadinapp
 
 Template for a simple Vaadin application that only requires a Servlet 3.0 container to run.
 
+Contribute to it
+==============
+[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=qeb4nxkuiorau99b)
 
 Workflow
 ========
